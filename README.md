@@ -3,20 +3,20 @@
 A multilingual (Tamil + English) AI-powered health chatbot built using NLP techniques, designed for Indian users — especially targeting rural healthcare accessibility.
 
 ---
+##  Features
 
-## 🚀 Features
+-  **Symptom Checker** — First-aid advice for 15+ common symptoms
+-  **BMI Calculator** — Just type your weight and height naturally
+-  **Indian Diet Advisor** — Nutrition info for 80+ Indian & international foods
+-  **Nutrition Explorer** — Fruits, nuts, vegetables, millets, grains, juices & more
+-  **Sentiment Detection** — Detects stress, sadness & anger → gives wellness support
+-  **Typing Animation** — Feels like a real AI chatbot
+-  **Sleep & Wellness Tips** — Science-backed sleep improvement advice
+-  **Stress & Mood Support** — Breathing exercises and mental wellness tips
+-  **Fitness Recommendations** — Beginner workout and yoga guidance
+-  **Tamil + English Support** — Multilingual for Indian users
 
-- 🤒 **Symptom Checker** — Get first-aid advice for common symptoms
-- 📊 **BMI Calculator** — Just type your weight and height
-- 🥗 **Indian Diet Advisor** — Nutrition info for idli, dosa, rice, dal and more
-- 😴 **Sleep & Wellness Tips**
-- 🧘 **Stress & Mood Support**
-- 🏋️ **Fitness Recommendations**
-- 🌐 **Tamil + English Support**
-
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -28,38 +28,8 @@ A multilingual (Tamil + English) AI-powered health chatbot built using NLP techn
 
 ---
 
-## 📁 Project Structure
 
-```
-medease/
-│
-├── app.py                  ← Streamlit web app (UI)
-├── chatbot.py              ← NLP engine
-├── data/
-│   └── knowledge_base.py  ← Q&A knowledge base
-├── requirements.txt        ← Dependencies
-└── README.md
-```
-
----
-
-## ⚙️ How to Run
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/yourusername/medease.git
-cd medease
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the app
-streamlit run app.py
-```
-
----
-
-## 🧠 NLP Concepts Used
+##  NLP Concepts Used
 
 | Concept | Where Used |
 |---|---|
@@ -72,7 +42,7 @@ streamlit run app.py
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 MedEase is for **informational purposes only**. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified doctor.
 
@@ -80,4 +50,4 @@ MedEase is for **informational purposes only**. It is not a substitute for profe
 
 ## 👨‍💻 Author
 
-Built as a final year project — combining NLP and real-world health impact for rural India 🇮🇳
+Geetha Sree N R
